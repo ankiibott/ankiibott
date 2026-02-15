@@ -44,7 +44,7 @@ I'm a Computer Science student passionate about **Machine Learning**, **Computer
 <p>
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Anti--Gravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Anti-gravity">
 </p>
 
 </div>
