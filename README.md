@@ -80,14 +80,13 @@ I'm a Computer Science student passionate about **Machine Learning**, **Computer
 
 <div align="center">
 
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankiibott&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ankiibott&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ankit's GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankiibott&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankiibott&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankiibott&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankiibott&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
-
 ---
 
 ## 🎯 Current Focus Areas
